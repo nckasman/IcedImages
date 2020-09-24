@@ -20,7 +20,7 @@
 
 * A new screen will pop up, giving you room to paste an Image URL, give a title, and assign any image tags.
 
-* Lets add another Batman image: https://ibb.co/y8KCJ3y
+* Lets add another Batman image: https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbatman-arkham-knight%2FEGS_WB_Batman_Arkham_Knight_G1_1920x1080_19_0911-1920x1080-1d69e15f00cb5ab57249f208f1f8f45d52cbbc59.jpg?h=1080&resize=1&w=1920
 
 ![Add Image](https://i.ibb.co/NLfqz4j/Diesel-productv2-batman-arkham-knight-EGS-WB-Batman-Arkham-Knight-G1-1920x1080-19-0911-1920x1080-1d6.jpg)
 
